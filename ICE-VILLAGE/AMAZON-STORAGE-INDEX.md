@@ -1,44 +1,51 @@
 # Amazon Warehouse Storage Index
 
 This index is to assist with finding items at the Ice Village Amazon Warehouse.
+As automation improves, arrays may be reorganized.
 
-Coordinates: x: -1340, y: 63, z: -470
+**Coordinates:** `x: -1340`, `y: 63`, `z: -470`
+**Last Updated:** February 21st, 2026
 
-Arrays are a set of 9 chests. Arrays are numbered in-game with signs that sit in the middle of the 9 chest grid.
+## How This Works
 
-These containers may change over time. Please check regularly when searching for an item. Eventually, a better system will exist to be able to retrieve an item easier in-game.
+* An *array* is a set of **9 chests**.
+* Arrays are labeled with **in-game signs** in the middle of each 9-chest grid.
+* Contents can change - if something is missing, ask in Discord.
+  * Eventually, a better system will exist to be able to retrieve an item easier in-game.
+* Multiple items under a single bullet may share the same chest.
 
-## ARRAY 1
+## Arrays
 
-* Crying Obsidian
-* Cobblestone Blocks
-* Cobblestone Stairs
+### Array 1
+* CRYING OBSIDIAN
+* COBBLESTONE BLOCKS
+* COBBLESTONE STAIRS
 
-## ARRAY 2
+## Array 2
 * IRON INGOTS
 * IRON BLOCKS
 * IRON NUGGETS
 * RAW IRON
 
-## ARRAY 3
+## Array 3
 * BOW
 * GRAVEL
 * SAND
 * SANDSTONE
 * SEEDS AND FOLIAGE
 * SNOW
-* DINORITE
+* DIORITE
 * ARROWS
 	* ARROW OF SLOWNESS
 * BONES
 * ROTTEN FLESH
 
-## ARRAY 4
+## Array 4
 * COPPER INGOTS
 * COPPER BLOCKS
 * RAW COPPER
 
-## ARRAY 5
+## Array 5
 * SPIDER EYE
 * MISC WOOD
 	* SPRUCE FENCE
@@ -76,11 +83,11 @@ These containers may change over time. Please check regularly when searching for
 	* JACK O LANTERN
 * ANDESITE
 
-## ARRAY 6
+## Array 6
 * COAL
 * CHARCOAL
 * PISTON
-* HIDES AND LETHER
+* HIDES AND LEATHER
 	* RABBIT HIDE
 	* LEATHER
 * PUFFERFISH
@@ -95,24 +102,24 @@ These containers may change over time. Please check regularly when searching for
 	* LAVA BUCKET
 	* BUCKET
 
-## ARRAY 7
+## Array 7
 * STRING
 * BLACKSTONE
 * SUGARCANE
-* NIUTILUS SHELL
+* NAUTILUS SHELL
 * WATER BOTTLE
 * EGG
 * LAPIS
 * WHEAT
 * TORCH
 
-## ARRAY 8
+## Array 8
 * REDSTONE DUST
-* RESTONE BLOCK
+* REDSTONE BLOCK
 * REDSTONE LOGIC
 * BOOKS
 
-## ARRAY 9
+## Array 9
 * MELONS
 * PAPER
 * RAILS
@@ -126,7 +133,7 @@ These containers may change over time. Please check regularly when searching for
 * LEAVES
 * GRANITE
 
-## ARRAY 10
+## Array 10
 * HAY BALES
 * MUSHROOMS
 * CARROTS
@@ -137,7 +144,7 @@ These containers may change over time. Please check regularly when searching for
 * MINECART WITH CHEST
 * SADDLES
 
-## ARRAY 11
+## Array 11
 * GOLD NUGGETS
 * GOLD BLOCKS
 * MAPS
@@ -148,7 +155,7 @@ These containers may change over time. Please check regularly when searching for
 * FEATHERS
 * APPLES
 
-## ARRAY 12
+## Array 12
 * EYE OF ENDER
 * LOCATOR MAPS
 * SPRUCE DOORS
@@ -157,20 +164,20 @@ These containers may change over time. Please check regularly when searching for
 * RAW GOLD
 * GUNPOWDER
 * GRANITE STAIRS
-* NETHER QUARTS
+* NETHER QUARTZ
 
-## ARRAY 13
+## Array 13
 * BEE NEST
 * TUFF
-* WHITE WHOOL
+* WHITE WOOL
 * MINECART
-* BROWN WHOOL
+* BROWN WOOL
 * OBSIDIAN
 * CRIMSON ROOT
 * NAME TAG / NAMETAG
 * SOUL SAND
 
-## ARRAY 14
+## Array 14
 * LEVER
 * LECTERN
 * GOLDEN APPLE
@@ -181,7 +188,7 @@ These containers may change over time. Please check regularly when searching for
 * GLASS BOTTLE
 * ICE
 
-## ARRAY 15
+## Array 15
 * SAPLINGS
 	* OAK SAPLING
 * ENDER PEARL
@@ -193,5 +200,5 @@ These containers may change over time. Please check regularly when searching for
 * GLASS
 * CRACKED STONE BRICKS
 
-## ARRAY 16
+## Array 16
 * SLIMEBALL
