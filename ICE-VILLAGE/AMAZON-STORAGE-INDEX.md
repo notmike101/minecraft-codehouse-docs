@@ -61,6 +61,7 @@ These containers may change over time. Please check regularly when searching for
 	* CRIMSON PLANK
 	* SPRUCE PLANK
 	* OAK PLANK
+	* ACACIA PLANKS
 * TABLES
 	* CRAFTING TABLE
 	* SMOKER
