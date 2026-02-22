@@ -203,3 +203,5 @@ As automation improves, arrays may be reorganized.
 ## Array 16
 * SLIMEBALL
 * FEATHER
+* SANDSTONE SLAB
+* BLAZE ROD
