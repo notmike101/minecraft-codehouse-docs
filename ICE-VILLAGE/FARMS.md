@@ -5,6 +5,10 @@
 * Cooked Chicken Farm
 * Blaze Rod Farm
 
+## Semi-Automatic Farms
+* Fishing Farm
+    * Manual casting out
+
 ## Manual Farms
 * Cobblestone Farm
 * Tree Farm
