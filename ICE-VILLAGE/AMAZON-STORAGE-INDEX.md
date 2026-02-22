@@ -207,3 +207,5 @@ As automation improves, arrays may be reorganized.
 * FEATHER
 * SANDSTONE SLAB
 * BLAZE ROD
+* WOOD TOOLS
+	* WOODEN HOE
