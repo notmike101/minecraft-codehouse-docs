@@ -22,6 +22,7 @@ As automation improves, arrays may be reorganized.
 * COBBLESTONE MISC
 	* COBBLESTONE STAIRS
 	* COBBLESTONE WALL
+	* COBBLESTONE SLAB
 ## Array 2
 * IRON INGOTS
 * IRON BLOCKS
