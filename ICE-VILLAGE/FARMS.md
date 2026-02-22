@@ -4,6 +4,7 @@
 * Lava Farm
 * Cooked Chicken Farm
 * Blaze Rod Farm
+* Sugarcane Farm
 
 ## Semi-Automatic Farms
 * Fishing Farm
