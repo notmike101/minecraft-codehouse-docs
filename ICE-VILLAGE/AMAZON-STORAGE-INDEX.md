@@ -19,8 +19,9 @@ As automation improves, arrays may be reorganized.
 ### Array 1
 * CRYING OBSIDIAN
 * COBBLESTONE BLOCKS
-* COBBLESTONE STAIRS
-
+* COBBLESTONE MISC
+	* COBBLESTONE STAIRS
+	* COBBLESTONE WALL
 ## Array 2
 * IRON INGOTS
 * IRON BLOCKS
