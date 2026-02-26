@@ -208,3 +208,7 @@ As automation improves, arrays may be reorganized.
 * BLAZE ROD
 * WOOD TOOLS
 	* WOODEN HOE
+* STONE BUTTON
+* DROPPER
+* PISTON
+* STICK
