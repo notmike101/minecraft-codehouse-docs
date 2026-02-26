@@ -126,6 +126,7 @@ As automation improves, arrays may be reorganized.
 	* RAIL
 	* ACTIVATOR RAIL
 	* DETECTOR RAIL
+	* POWERED RAILS
 * GOLD INGOTS
 * COPPER DOORS
 * COBBLED DEEPSLATE
