@@ -211,3 +211,10 @@ As automation improves, arrays may be reorganized.
 * TRAPDOOR
 	* OAK TRAPDOOR
 	* SPRUCE TRAPDOOR
+
+## Array 17 (Not complete)
+* Sign
+	* SPRUCE SIGN
+* BUTTON
+	* STONE BUTTON
+	* SPRUCE BUTTON
