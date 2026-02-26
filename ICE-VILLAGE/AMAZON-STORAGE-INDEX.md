@@ -49,15 +49,13 @@ As automation improves, arrays may be reorganized.
 
 ## Array 5
 * SPIDER EYE
-* MISC WOOD
+* MISC SPRUCE
 	* SPRUCE FENCE
 	* SPRUCE TRAPDOOR
 	* SPRUCE SIGN
 	* SPRUCE BUTTON
 	* SPRUCE PRESSURE PLATE
-	* STICK
 	* SPRUCE SLAB
-	* BOWL
 	* STRIPPED SPRUCE WOOD
 * CHESTS
 	* CHEST
