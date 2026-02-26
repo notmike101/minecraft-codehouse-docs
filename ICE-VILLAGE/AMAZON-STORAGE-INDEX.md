@@ -218,3 +218,4 @@ As automation improves, arrays may be reorganized.
 * BUTTON
 	* STONE BUTTON
 	* SPRUCE BUTTON
+* BOWL
