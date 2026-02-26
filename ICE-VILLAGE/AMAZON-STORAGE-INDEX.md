@@ -211,3 +211,5 @@ As automation improves, arrays may be reorganized.
 * DROPPER
 * PISTON
 * STICK
+* TRAPDOOR
+	* OAK TRAPDOOR
