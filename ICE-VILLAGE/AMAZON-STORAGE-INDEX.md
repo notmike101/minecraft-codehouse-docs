@@ -51,8 +51,6 @@ As automation improves, arrays may be reorganized.
 * SPIDER EYE
 * MISC SPRUCE
 	* SPRUCE FENCE
-	* SPRUCE TRAPDOOR
-	* SPRUCE SIGN
 	* SPRUCE BUTTON
 	* SPRUCE PRESSURE PLATE
 	* SPRUCE SLAB
