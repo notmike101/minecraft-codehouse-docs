@@ -213,3 +213,4 @@ As automation improves, arrays may be reorganized.
 * STICK
 * TRAPDOOR
 	* OAK TRAPDOOR
+	* SPRUCE TRAPDOOR
