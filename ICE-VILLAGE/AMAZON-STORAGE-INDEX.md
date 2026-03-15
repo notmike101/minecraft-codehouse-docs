@@ -34,6 +34,12 @@ As automation improves, arrays may be reorganized.
 * SAND
 * SANDSTONE
 * SEEDS AND FOLIAGE
+	* PUMPKIN SEEDS
+	* LEAF LITTER
+	* BEETROOT SEEDS
+	* MELON SEEDS
+	* WHEAT SEEDS
+	* GLOW BERRIES
 * SNOW
 * DIORITE
 * ARROWS
