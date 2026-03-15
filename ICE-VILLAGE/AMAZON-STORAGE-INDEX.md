@@ -121,9 +121,7 @@ As automation improves, arrays may be reorganized.
 * REDSTONE DUST
 * REDSTONE BLOCK
 * REDSTONE LOGIC
-* BOOKS
-	* ENCHANTED BOOK
-	* BOOK
+* BOOK
 
 ## Array 9
 * MELONS
