@@ -239,3 +239,4 @@ As automation improves, arrays may be reorganized.
 	* CHAINMAIL LEGGINGS
 	* CHAINMAIL HELMET
 * HOPPER
+* FEATHER
