@@ -155,7 +155,7 @@ As automation improves, arrays may be reorganized.
 * SUGAR
 * IRON DOORS
 * MUSIC DISKS
-* FEATHERS
+* FEATHER
 * APPLES
 
 ## Array 12
