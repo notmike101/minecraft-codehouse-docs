@@ -89,10 +89,10 @@ As automation improves, arrays may be reorganized.
 	* RABBIT HIDE
 	* LEATHER
 * PUFFERFISH
-* CHICKEN
-	* COOKED CHICKEN
-	* RAW CHICKEN
-* RAW COD
+* COOKED CHICKEN
+* COD
+	* RAW COD
+	* COOKED COD
 * FLINT
 * FIREFLY BUSH
 * BUCKETS
