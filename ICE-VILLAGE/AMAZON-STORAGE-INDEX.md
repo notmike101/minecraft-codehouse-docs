@@ -145,7 +145,7 @@ As automation improves, arrays may be reorganized.
 	* COOKED SALMON
 * MINECART WITH HOPPER
 * MINECART WITH CHEST
-* SADDLES
+* SADDLE
 
 ## Array 11
 * GOLD NUGGETS
