@@ -82,7 +82,9 @@ As automation improves, arrays may be reorganized.
 ## Array 6
 * COAL
 * CHARCOAL
-* PISTON
+* PISTONS
+	* PISTON
+	* STICKY PISTON
 * HIDES AND LEATHER
 	* RABBIT HIDE
 	* LEATHER
