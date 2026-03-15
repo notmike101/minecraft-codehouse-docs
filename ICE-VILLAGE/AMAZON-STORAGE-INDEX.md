@@ -212,10 +212,20 @@ As automation improves, arrays may be reorganized.
 	* OAK TRAPDOOR
 	* SPRUCE TRAPDOOR
 
-## Array 17 (Not complete)
-* Sign
+## Array 17
+* SIGN
 	* SPRUCE SIGN
+	* OAK SIGN
 * BUTTON
 	* STONE BUTTON
 	* SPRUCE BUTTON
 * BOWL
+* COOKED CHICKEN
+* FENCE
+	* OAK FENCE
+	* SPRUCE FENCE
+* CHAINMAIL ARMOR
+	* CHAINMAIL BOOTS
+	* CHAINMAIL LEGGINGS
+	* CHAINMAIL HELMET
+* HOPPER
