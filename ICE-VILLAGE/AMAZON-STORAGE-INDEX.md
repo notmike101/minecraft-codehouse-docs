@@ -245,3 +245,6 @@ As automation improves, arrays may be reorganized.
 	* CHAINMAIL HELMET
 * HOPPER
 * FEATHER
+
+## Array 18
+* MAGMA BLOCK
