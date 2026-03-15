@@ -213,7 +213,6 @@ As automation improves, arrays may be reorganized.
 * SANDSTONE SLAB
 * BLAZE ROD
 * DROPPER
-* PISTON
 * STICK
 * TRAPDOOR
 	* OAK TRAPDOOR
