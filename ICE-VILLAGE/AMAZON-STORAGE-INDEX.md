@@ -21,7 +21,6 @@ As automation improves, arrays may be reorganized.
 * COBBLESTONE BLOCKS
 * COBBLESTONE MISC
 	* COBBLESTONE WALL
-	* COBBLESTONE SLAB
 ## Array 2
 * IRON INGOTS
 * IRON BLOCKS
@@ -56,7 +55,6 @@ As automation improves, arrays may be reorganized.
 * SPIDER EYE
 * MISC SPRUCE
 	* SPRUCE PRESSURE PLATE
-	* SPRUCE SLAB
 	* STRIPPED SPRUCE WOOD
 * CHESTS
 	* CHEST
@@ -214,7 +212,10 @@ As automation improves, arrays may be reorganized.
 ## Array 16
 * SLIMEBALL
 * FEATHER
-* SANDSTONE SLAB
+* SLABS
+	* SANDSTONE SLAB
+	* COBBLESTONE SLAB
+	* SPRUCE SLAB
 * BLAZE ROD
 * DROPPER
 * STICK
