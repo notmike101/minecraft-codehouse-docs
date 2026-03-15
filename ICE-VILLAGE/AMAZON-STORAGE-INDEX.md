@@ -59,6 +59,7 @@ As automation improves, arrays may be reorganized.
 * LOGS
 	* OAK LOG
 	* SPRUCE LOG
+	* BIRCH LOG
 * PLANKS
 	* CRIMSON PLANK
 	* SPRUCE PLANK
