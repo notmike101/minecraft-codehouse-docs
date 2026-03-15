@@ -116,6 +116,8 @@ As automation improves, arrays may be reorganized.
 * REDSTONE BLOCK
 * REDSTONE LOGIC
 * BOOKS
+	* ENCHANTED BOOK
+	* BOOK
 
 ## Array 9
 * MELONS
