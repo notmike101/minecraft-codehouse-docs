@@ -189,7 +189,9 @@ As automation improves, arrays may be reorganized.
 * LADDER
 * IRON HELMET
 * HONEYCOMB
-* GOLDEN SWORD
+* SWORDS
+	* GOLDEN SWORD
+	* WOODEN SWORD
 * GLASS BOTTLE
 * ICE
 
