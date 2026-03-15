@@ -20,7 +20,6 @@ As automation improves, arrays may be reorganized.
 * CRYING OBSIDIAN
 * COBBLESTONE BLOCKS
 * COBBLESTONE MISC
-	* COBBLESTONE STAIRS
 	* COBBLESTONE WALL
 	* COBBLESTONE SLAB
 ## Array 2
@@ -161,7 +160,6 @@ As automation improves, arrays may be reorganized.
 * GOLD WEAPONS
 * RAW GOLD
 * GUNPOWDER
-* GRANITE STAIRS
 * NETHER QUARTZ
 
 ## Array 13
@@ -211,6 +209,10 @@ As automation improves, arrays may be reorganized.
 * TRAPDOOR
 	* OAK TRAPDOOR
 	* SPRUCE TRAPDOOR
+* STAIRS
+	* OAK STAIRS
+	* COBBLESTONE STAIRS
+	* GRANITE STAIRS
 
 ## Array 17
 * SIGN
