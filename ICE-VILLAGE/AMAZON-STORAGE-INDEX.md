@@ -163,6 +163,9 @@ As automation improves, arrays may be reorganized.
 * LOCATOR MAPS
 * SPRUCE DOORS
 * WOOD TOOLS
+	* WOODEN PICKAXE
+	* WOODEN SHOVEL
+	* WOODEN HOE
 * GOLD WEAPONS
 * RAW GOLD
 * GUNPOWDER
